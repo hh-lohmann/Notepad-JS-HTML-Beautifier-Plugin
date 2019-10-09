@@ -9,9 +9,9 @@ echo "\___/___/ /____/\__/\_,_/\_,_/\__/_/_//_/\__/_/   ";
 echo "                                                  ";
 
 if exist "%ProgramFiles(x86)%" (
-	set pluginPath="%ProgramFiles(x86)%\Notepad++\plugins\jN\includes\"
+	set pluginPath="%ProgramFiles(x86)%\Notepad++\plugins\jN\jN\includes\"
 ) else (
-	set pluginPath="%PROGRAMFILES%\Notepad++\plugins\jN\includes\"
+	set pluginPath="%PROGRAMFILES%\Notepad++\plugins\jN\jN\includes\"
 )
 
 echo install js plugin to %pluginPath%
