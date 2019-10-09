@@ -2,7 +2,10 @@
 - Notepad++ JS HTML Beautifier Plugin for jN Plugin (Javascript plugin, old name: npp scripting)
 - Proudly based on library from http://jsbeautifier.org/
 
-## Usage
+## Usage (auto install)
+- Just run "install.cmd"
+
+## Usage (manual install)
 - Instal plugin [jN (Notepad++ Javascript Scripting)](https://code.google.com/p/jn-npp-plugin/)
 - Place "JS Beautifier.js" file into directory:
  - Windows x64:
